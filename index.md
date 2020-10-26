@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Professor Lee's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/fenago/whateveryouwant/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
